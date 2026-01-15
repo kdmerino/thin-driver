@@ -8,7 +8,7 @@ else
 	EXT =
 endif
 
-# Define the final exec name with extension variable
+# Define the final executables
 SRC = src/main.cpp
 LIB = lib/driver.cpp
 LIB_H = lib/driver.h
